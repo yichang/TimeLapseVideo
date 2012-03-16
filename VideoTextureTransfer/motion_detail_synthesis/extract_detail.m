@@ -1,0 +1,2 @@
+
+detail_extraction('Time_Lapse_Sunset_Over_the_Lake')
